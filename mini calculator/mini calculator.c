@@ -30,8 +30,8 @@ void Switches(int choise)
 {
     int ino1 = 0, ino2 = 0;
 
-    for(;;)
-    {
+ for(;;)
+ {
  switch(choise)
  {
  case 1:
@@ -100,7 +100,7 @@ void Switches(int choise)
  break;
  getch();
  system("cls");
-    }
+ }
 }
 
 void Addition(int ino1, int ino2)
