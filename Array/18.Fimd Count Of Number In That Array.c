@@ -24,7 +24,7 @@ int main()
             count++;
         }
     }
-
+    
     printf("\n Count Of %d is %d Times.",ino,count);
 
     getch();
