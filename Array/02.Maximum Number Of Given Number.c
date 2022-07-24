@@ -18,7 +18,6 @@ int main()
         {
             max = ArrNo[i];
         }
-
     }
 
     printf("\n Maximum Number Of Given Numbers => %d",max);
