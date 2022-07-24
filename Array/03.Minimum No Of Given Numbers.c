@@ -21,7 +21,6 @@ int main()
     }
 
     printf("\n Minimum Number Of Given Numbers Is %d ",min);
-
     getch();
     return 0;
 }
